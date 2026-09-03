@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Secrets and local configuration
+.env
+.env.*
+
+# Dataset files
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.sqlite
+*.db
+*.dta
+*.sav
+
+# Dataset directory, but keep its README
+data/*
+!data/README.md
