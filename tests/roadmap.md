@@ -3,7 +3,7 @@
 Structural Transformation and Economic Development: A Panel Clustering Analysis of Global Economies.
 
 ## Introduction
-The primary objective of this Master's thesis is to examine the relationship between structural economic composition and levels of macroeconomic development across multi-country panel dataset overtime.
+The primary objective of this Master's thesis is to examine the relationship between structural economic composition and levels of macroeconomic development across multi-country panel dataset overtime and answering the question of whether it is possible for a country to develop without changing its economic structure.
 
 Using unsupervised machine learning techniques - specifically cluster analysis - this study aims to construct an empirical taxonomy of economic structures based on sectoral outputs, labor distribution, trade composition, government involvement and other key macroeconomics indicators. By tracking how individual countries transition between identified countries transition between identified structural clusters across different time horizons, the analysis evaluates whether structural shifts significantly correlate with progression in overall economic development indicators (e.g., GDP per capita, productivity metrics, human development indices).
 

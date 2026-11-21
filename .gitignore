@@ -33,3 +33,10 @@ __pycache__/
 # Dataset directory, but keep its README
 data/*
 !data/README.md
+
+# Ignore local PDF papers
+docs/papers_pdf/
+*.pdf
+
+# Ignore my notes and drafts
+docs/notes/
