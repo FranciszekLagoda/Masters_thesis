@@ -31,7 +31,7 @@ __pycache__/
 *.sav
 
 # Dataset directory, but keep its README
-data/*
+02_data/*
 !data/README.md
 
 # Ignore local PDF papers
